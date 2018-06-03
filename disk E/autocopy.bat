@@ -1,0 +1,1 @@
+xcopy C:\Users\%USERNAME%\*.doc E:\ /syf
