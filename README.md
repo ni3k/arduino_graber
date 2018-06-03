@@ -1,4 +1,4 @@
-# Project Title
+# Arduino Grabber
 A simple grabber to copy all your files of one type automaticlly
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
